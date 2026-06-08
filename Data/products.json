@@ -1,0 +1,1742 @@
+[
+  {
+    "id": 1,
+    "name": "Boys Cotton Playwear Set #1",
+    "price": 899,
+    "oldPrice": 1284,
+    "discount": "30% OFF",
+    "rating": 122,
+    "category": "Kids",
+    "image": "/images/bkid1.avif"
+  },
+  {
+    "id": 2,
+    "name": "Boys Cotton Playwear Set #2",
+    "price": 1499,
+    "oldPrice": 3748,
+    "discount": "60% OFF",
+    "rating": 135,
+    "category": "Kids",
+    "image": "/images/bkid2.avif"
+  },
+  {
+    "id": 3,
+    "name": "Boys Cotton Playwear Set #3",
+    "price": 2499,
+    "oldPrice": 4165,
+    "discount": "40% OFF",
+    "rating": 67,
+    "category": "Kids",
+    "image": "/images/bkid3.avif"
+  },
+  {
+    "id": 4,
+    "name": "Boys Cotton Playwear Set #4",
+    "price": 2999,
+    "oldPrice": 7498,
+    "discount": "60% OFF",
+    "rating": 119,
+    "category": "Kids",
+    "image": "/images/bkid4.avif"
+  },
+  {
+    "id": 5,
+    "name": "Boys Cotton Playwear Set #5",
+    "price": 2499,
+    "oldPrice": 3570,
+    "discount": "30% OFF",
+    "rating": 105,
+    "category": "Kids",
+    "image": "/images/bkid5.avif"
+  },
+  {
+    "id": 6,
+    "name": "Boys Cotton Playwear Set #6",
+    "price": 899,
+    "oldPrice": 1498,
+    "discount": "40% OFF",
+    "rating": 130,
+    "category": "Kids",
+    "image": "/images/bkid6.avif"
+  },
+  {
+    "id": 7,
+    "name": "Boys Cotton Playwear Set #7",
+    "price": 2999,
+    "oldPrice": 4998,
+    "discount": "40% OFF",
+    "rating": 62,
+    "category": "Kids",
+    "image": "/images/bkid7.avif"
+  },
+  {
+    "id": 8,
+    "name": "Boys Cotton Playwear Set #8",
+    "price": 1599,
+    "oldPrice": 3998,
+    "discount": "60% OFF",
+    "rating": 144,
+    "category": "Kids",
+    "image": "/images/bkid8.avif"
+  },
+  {
+    "id": 9,
+    "name": "Boys Cotton Playwear Set #9",
+    "price": 1299,
+    "oldPrice": 1856,
+    "discount": "30% OFF",
+    "rating": 104,
+    "category": "Kids",
+    "image": "/images/bkid9.avif"
+  },
+  {
+    "id": 10,
+    "name": "Girls Summer Dress Set #10",
+    "price": 899,
+    "oldPrice": 1498,
+    "discount": "40% OFF",
+    "rating": 116,
+    "category": "Kids",
+    "image": "/images/gkid.avif"
+  },
+  {
+    "id": 11,
+    "name": "Girls Summer Dress Set #11",
+    "price": 499,
+    "oldPrice": 832,
+    "discount": "40% OFF",
+    "rating": 136,
+    "category": "Kids",
+    "image": "/images/gkid1.avif"
+  },
+  {
+    "id": 12,
+    "name": "Girls Summer Dress Set #12",
+    "price": 599,
+    "oldPrice": 1198,
+    "discount": "50% OFF",
+    "rating": 114,
+    "category": "Kids",
+    "image": "/images/gkid10.avif"
+  },
+  {
+    "id": 13,
+    "name": "Girls Summer Dress Set #13",
+    "price": 1499,
+    "oldPrice": 2998,
+    "discount": "50% OFF",
+    "rating": 79,
+    "category": "Kids",
+    "image": "/images/gkid2.avif"
+  },
+  {
+    "id": 14,
+    "name": "Girls Summer Dress Set #14",
+    "price": 899,
+    "oldPrice": 2248,
+    "discount": "60% OFF",
+    "rating": 102,
+    "category": "Kids",
+    "image": "/images/gkid3.avif"
+  },
+  {
+    "id": 15,
+    "name": "Girls Summer Dress Set #15",
+    "price": 499,
+    "oldPrice": 1248,
+    "discount": "60% OFF",
+    "rating": 63,
+    "category": "Kids",
+    "image": "/images/gkid4.avif"
+  },
+  {
+    "id": 16,
+    "name": "Girls Summer Dress Set #16",
+    "price": 999,
+    "oldPrice": 1427,
+    "discount": "30% OFF",
+    "rating": 68,
+    "category": "Kids",
+    "image": "/images/gkid5.avif"
+  },
+  {
+    "id": 17,
+    "name": "Girls Summer Dress Set #17",
+    "price": 599,
+    "oldPrice": 856,
+    "discount": "30% OFF",
+    "rating": 54,
+    "category": "Kids",
+    "image": "/images/gkid6.avif"
+  },
+  {
+    "id": 18,
+    "name": "Girls Summer Dress Set #18",
+    "price": 1499,
+    "oldPrice": 2998,
+    "discount": "50% OFF",
+    "rating": 129,
+    "category": "Kids",
+    "image": "/images/gkid7.avif"
+  },
+  {
+    "id": 19,
+    "name": "Girls Summer Dress Set #19",
+    "price": 1199,
+    "oldPrice": 1998,
+    "discount": "40% OFF",
+    "rating": 51,
+    "category": "Kids",
+    "image": "/images/gkid8.avif"
+  },
+  {
+    "id": 20,
+    "name": "Girls Summer Dress Set #20",
+    "price": 1999,
+    "oldPrice": 3332,
+    "discount": "40% OFF",
+    "rating": 91,
+    "category": "Kids",
+    "image": "/images/gkid9.avif"
+  },
+  {
+    "id": 21,
+    "name": "Kids Premium Fashion Wear #21",
+    "price": 1999,
+    "oldPrice": 2856,
+    "discount": "30% OFF",
+    "rating": 76,
+    "category": "Kids",
+    "image": "/images/kid_1 copy.png"
+  },
+  {
+    "id": 22,
+    "name": "Kids Premium Fashion Wear #22",
+    "price": 799,
+    "oldPrice": 1332,
+    "discount": "40% OFF",
+    "rating": 121,
+    "category": "Kids",
+    "image": "/images/kid_10.avif"
+  },
+  {
+    "id": 23,
+    "name": "Kids Premium Fashion Wear #23",
+    "price": 1199,
+    "oldPrice": 2998,
+    "discount": "60% OFF",
+    "rating": 111,
+    "category": "Kids",
+    "image": "/images/kid_2.avif"
+  },
+  {
+    "id": 24,
+    "name": "Kids Premium Fashion Wear #24",
+    "price": 1999,
+    "oldPrice": 2856,
+    "discount": "30% OFF",
+    "rating": 135,
+    "category": "Kids",
+    "image": "/images/kid_3.avif"
+  },
+  {
+    "id": 25,
+    "name": "Kids Premium Fashion Wear #25",
+    "price": 799,
+    "oldPrice": 1332,
+    "discount": "40% OFF",
+    "rating": 67,
+    "category": "Kids",
+    "image": "/images/kid_4.avif"
+  },
+  {
+    "id": 26,
+    "name": "Kids Premium Fashion Wear #26",
+    "price": 499,
+    "oldPrice": 832,
+    "discount": "40% OFF",
+    "rating": 85,
+    "category": "Kids",
+    "image": "/images/kid_5.avif"
+  },
+  {
+    "id": 27,
+    "name": "Kids Premium Fashion Wear #27",
+    "price": 2199,
+    "oldPrice": 3665,
+    "discount": "40% OFF",
+    "rating": 101,
+    "category": "Kids",
+    "image": "/images/kid_6.avif"
+  },
+  {
+    "id": 28,
+    "name": "Kids Premium Fashion Wear #28",
+    "price": 1799,
+    "oldPrice": 2570,
+    "discount": "30% OFF",
+    "rating": 72,
+    "category": "Kids",
+    "image": "/images/kid_7.avif"
+  },
+  {
+    "id": 29,
+    "name": "Kids Premium Fashion Wear #29",
+    "price": 599,
+    "oldPrice": 856,
+    "discount": "30% OFF",
+    "rating": 101,
+    "category": "Kids",
+    "image": "/images/kid_8.avif"
+  },
+  {
+    "id": 30,
+    "name": "Kids Premium Fashion Wear #30",
+    "price": 1799,
+    "oldPrice": 2998,
+    "discount": "40% OFF",
+    "rating": 57,
+    "category": "Kids",
+    "image": "/images/kid_9.avif"
+  },
+  {
+    "id": 31,
+    "name": "Women Traditional Designer Kurti #31",
+    "price": 1799,
+    "oldPrice": 2570,
+    "discount": "30% OFF",
+    "rating": 149,
+    "category": "Women",
+    "image": "/images/kurti1_1.avif"
+  },
+  {
+    "id": 32,
+    "name": "Women Traditional Designer Kurti #32",
+    "price": 1499,
+    "oldPrice": 2998,
+    "discount": "50% OFF",
+    "rating": 54,
+    "category": "Women",
+    "image": "/images/kurti2_.avif"
+  },
+  {
+    "id": 33,
+    "name": "Men Traditional Dhoti & Kurta Set #33",
+    "price": 2199,
+    "oldPrice": 3141,
+    "discount": "30% OFF",
+    "rating": 67,
+    "category": "Men",
+    "image": "/images/mdhosti1.avif"
+  },
+  {
+    "id": 34,
+    "name": "Men Traditional Dhoti & Kurta Set #34",
+    "price": 1599,
+    "oldPrice": 2284,
+    "discount": "30% OFF",
+    "rating": 82,
+    "category": "Men",
+    "image": "/images/mdhosti2.avif"
+  },
+  {
+    "id": 35,
+    "name": "Men Traditional Dhoti & Kurta Set #35",
+    "price": 899,
+    "oldPrice": 1498,
+    "discount": "40% OFF",
+    "rating": 129,
+    "category": "Men",
+    "image": "/images/menkur1.avif"
+  },
+  {
+    "id": 36,
+    "name": "Men Traditional Dhoti & Kurta Set #36",
+    "price": 499,
+    "oldPrice": 832,
+    "discount": "40% OFF",
+    "rating": 109,
+    "category": "Men",
+    "image": "/images/menkur2.avif"
+  },
+  {
+    "id": 37,
+    "name": "Men Traditional Dhoti & Kurta Set #37",
+    "price": 799,
+    "oldPrice": 1141,
+    "discount": "30% OFF",
+    "rating": 94,
+    "category": "Men",
+    "image": "/images/menkur3.avif"
+  },
+  {
+    "id": 38,
+    "name": "Men Fashion wear #38",
+    "price": 1599,
+    "oldPrice": 3198,
+    "discount": "50% OFF",
+    "rating": 111,
+    "category": "Men",
+    "image": "/images/men_1.webp"
+  },
+  {
+    "id": 39,
+    "name": "Men Fashion wear #39",
+    "price": 799,
+    "oldPrice": 1332,
+    "discount": "40% OFF",
+    "rating": 148,
+    "category": "Men",
+    "image": "/images/men_10.avif"
+  },
+  {
+    "id": 40,
+    "name": "Men Fashion wear #40",
+    "price": 899,
+    "oldPrice": 1798,
+    "discount": "50% OFF",
+    "rating": 123,
+    "category": "Men",
+    "image": "/images/men_11.avif"
+  },
+  {
+    "id": 41,
+    "name": "Men Fashion wear #41",
+    "price": 2999,
+    "oldPrice": 4998,
+    "discount": "40% OFF",
+    "rating": 122,
+    "category": "Men",
+    "image": "/images/men_12.avif"
+  },
+  {
+    "id": 42,
+    "name": "Men Fashion wear #42",
+    "price": 1499,
+    "oldPrice": 2141,
+    "discount": "30% OFF",
+    "rating": 102,
+    "category": "Men",
+    "image": "/images/men_2.jpeg"
+  },
+  {
+    "id": 43,
+    "name": "Men Fashion wear #43",
+    "price": 1499,
+    "oldPrice": 2498,
+    "discount": "40% OFF",
+    "rating": 149,
+    "category": "Men",
+    "image": "/images/men_3.jpeg"
+  },
+  {
+    "id": 44,
+    "name": "Men Fashion wear #44",
+    "price": 2499,
+    "oldPrice": 3570,
+    "discount": "30% OFF",
+    "rating": 83,
+    "category": "Men",
+    "image": "/images/men_4.jpeg"
+  },
+  {
+    "id": 45,
+    "name": "Men Fashion wear #45",
+    "price": 1299,
+    "oldPrice": 2165,
+    "discount": "40% OFF",
+    "rating": 72,
+    "category": "Men",
+    "image": "/images/men_5.jpeg"
+  },
+  {
+    "id": 46,
+    "name": "Men Fashion wear #46",
+    "price": 2999,
+    "oldPrice": 4998,
+    "discount": "40% OFF",
+    "rating": 129,
+    "category": "Men",
+    "image": "/images/men_6.jpeg"
+  },
+  {
+    "id": 47,
+    "name": "Men Fashion wear #47",
+    "price": 2999,
+    "oldPrice": 7498,
+    "discount": "60% OFF",
+    "rating": 87,
+    "category": "Men",
+    "image": "/images/men_7.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Men Fashion wear #48",
+    "price": 2499,
+    "oldPrice": 3570,
+    "discount": "30% OFF",
+    "rating": 89,
+    "category": "Men",
+    "image": "/images/men_8.avif"
+  },
+  {
+    "id": 49,
+    "name": "Men Fashion wear #49",
+    "price": 1499,
+    "oldPrice": 2998,
+    "discount": "50% OFF",
+    "rating": 147,
+    "category": "Men",
+    "image": "/images/men_9.avif"
+  },
+  {
+    "id": 50,
+    "name": "Men Fashion wear #50",
+    "price": 1499,
+    "oldPrice": 2998,
+    "discount": "50% OFF",
+    "rating": 118,
+    "category": "Men",
+    "image": "/images/men_h.webp"
+  },
+  {
+    "id": 51,
+    "name": "Men Fashion wear #51",
+    "price": 1999,
+    "oldPrice": 2856,
+    "discount": "30% OFF",
+    "rating": 65,
+    "category": "Men",
+    "image": "/images/men_h1.webp"
+  },
+  {
+    "id": 52,
+    "name": "Men Fashion wear #52",
+    "price": 1499,
+    "oldPrice": 2498,
+    "discount": "40% OFF",
+    "rating": 143,
+    "category": "Men",
+    "image": "/images/men_h2.jpg"
+  },
+  {
+    "id": 53,
+    "name": "Men Stylish Winter Jacket #53",
+    "price": 999,
+    "oldPrice": 1998,
+    "discount": "50% OFF",
+    "rating": 141,
+    "category": "Men",
+    "image": "/images/mjac1.avif"
+  },
+  {
+    "id": 54,
+    "name": "Men Stylish Winter Jacket #54",
+    "price": 899,
+    "oldPrice": 1284,
+    "discount": "30% OFF",
+    "rating": 73,
+    "category": "Men",
+    "image": "/images/mjac2.avif"
+  },
+  {
+    "id": 55,
+    "name": "Men Premium Cotton Shirt #55",
+    "price": 1299,
+    "oldPrice": 2165,
+    "discount": "40% OFF",
+    "rating": 127,
+    "category": "Men",
+    "image": "/images/mshirt.avif"
+  },
+  {
+    "id": 56,
+    "name": "Men Premium Cotton Shirt #56",
+    "price": 2199,
+    "oldPrice": 3665,
+    "discount": "40% OFF",
+    "rating": 81,
+    "category": "Men",
+    "image": "/images/mtshirt1.avif"
+  },
+  {
+    "id": 57,
+    "name": "Men Premium Cotton Shirt #57",
+    "price": 999,
+    "oldPrice": 2498,
+    "discount": "60% OFF",
+    "rating": 80,
+    "category": "Men",
+    "image": "/images/mtshirt2.avif"
+  },
+  {
+    "id": 58,
+    "name": "Men Premium Cotton Shirt #58",
+    "price": 1799,
+    "oldPrice": 2998,
+    "discount": "40% OFF",
+    "rating": 146,
+    "category": "Men",
+    "image": "/images/mtshirt3.avif"
+  },
+  {
+    "id": 59,
+    "name": "Men Premium Cotton Shirt #59",
+    "price": 1499,
+    "oldPrice": 2998,
+    "discount": "50% OFF",
+    "rating": 77,
+    "category": "Men",
+    "image": "/images/mtshirt4.avif"
+  },
+  {
+    "id": 60,
+    "name": "Men Premium Cotton Shirt #60",
+    "price": 899,
+    "oldPrice": 1798,
+    "discount": "50% OFF",
+    "rating": 54,
+    "category": "Men",
+    "image": "/images/mtshirt5.avif"
+  },
+  {
+    "id": 61,
+    "name": "Men Premium Cotton Shirt #61",
+    "price": 2199,
+    "oldPrice": 3665,
+    "discount": "40% OFF",
+    "rating": 57,
+    "category": "Men",
+    "image": "/images/mtshirt6.avif"
+  },
+  {
+    "id": 62,
+    "name": "Women Cozy Night Suit Set #62",
+    "price": 2999,
+    "oldPrice": 7498,
+    "discount": "60% OFF",
+    "rating": 56,
+    "category": "Women",
+    "image": "/images/nytsuit1.avif"
+  },
+  {
+    "id": 63,
+    "name": "Women Cozy Night Suit Set #63",
+    "price": 1199,
+    "oldPrice": 2998,
+    "discount": "60% OFF",
+    "rating": 74,
+    "category": "Women",
+    "image": "/images/nytsuit2.avif"
+  },
+  {
+    "id": 64,
+    "name": "Women Cozy Night Suit Set #64",
+    "price": 1299,
+    "oldPrice": 2165,
+    "discount": "40% OFF",
+    "rating": 126,
+    "category": "Women",
+    "image": "/images/nytsuit3.avif"
+  },
+  {
+    "id": 65,
+    "name": "Women Cozy Night Suit Set #65",
+    "price": 2999,
+    "oldPrice": 4284,
+    "discount": "30% OFF",
+    "rating": 138,
+    "category": "Women",
+    "image": "/images/nytsuit4.avif"
+  },
+  {
+    "id": 66,
+    "name": "Women Cozy Night Suit Set #66",
+    "price": 2499,
+    "oldPrice": 6248,
+    "discount": "60% OFF",
+    "rating": 91,
+    "category": "Women",
+    "image": "/images/nytsuit5.avif"
+  },
+  {
+    "id": 67,
+    "name": "Women Cozy Night Suit Set #67",
+    "price": 799,
+    "oldPrice": 1998,
+    "discount": "60% OFF",
+    "rating": 67,
+    "category": "Women",
+    "image": "/images/nytsuit6.avif"
+  },
+  {
+    "id": 68,
+    "name": "Women Cozy Night Suit Set #68",
+    "price": 1599,
+    "oldPrice": 2665,
+    "discount": "40% OFF",
+    "rating": 106,
+    "category": "Women",
+    "image": "/images/nytsuit7.avif"
+  },
+  {
+    "id": 69,
+    "name": "Women Cozy Night Suit Set #69",
+    "price": 899,
+    "oldPrice": 1498,
+    "discount": "40% OFF",
+    "rating": 117,
+    "category": "Women",
+    "image": "/images/nytsuit8.avif"
+  },
+  {
+    "id": 70,
+    "name": "Women Cozy Night Suit Set #70",
+    "price": 599,
+    "oldPrice": 998,
+    "discount": "40% OFF",
+    "rating": 80,
+    "category": "Women",
+    "image": "/images/nytsuit9.avif"
+  },
+  {
+    "id": 71,
+    "name": "Women Cozy Night Suit Set #71",
+    "price": 599,
+    "oldPrice": 1198,
+    "discount": "50% OFF",
+    "rating": 68,
+    "category": "Women",
+    "image": "/images/nytsuits.avif"
+  },
+  {
+    "id": 72,
+    "name": "Men Comfort Fit Chino Pants #72",
+    "price": 699,
+    "oldPrice": 999,
+    "discount": "30% OFF",
+    "rating": 122,
+    "category": "Men",
+    "image": "/images/pant1.avif"
+  },
+  {
+    "id": 73,
+    "name": "Men Comfort Fit Chino Pants #73",
+    "price": 599,
+    "oldPrice": 1498,
+    "discount": "60% OFF",
+    "rating": 101,
+    "category": "Men",
+    "image": "/images/pant10.avif"
+  },
+  {
+    "id": 74,
+    "name": "Men Comfort Fit Chino Pants #74",
+    "price": 599,
+    "oldPrice": 856,
+    "discount": "30% OFF",
+    "rating": 58,
+    "category": "Men",
+    "image": "/images/pant2.avif"
+  },
+  {
+    "id": 75,
+    "name": "Men Comfort Fit Chino Pants #75",
+    "price": 599,
+    "oldPrice": 1198,
+    "discount": "50% OFF",
+    "rating": 135,
+    "category": "Men",
+    "image": "/images/pant3.avif"
+  },
+  {
+    "id": 76,
+    "name": "Men Comfort Fit Chino Pants #76",
+    "price": 999,
+    "oldPrice": 1427,
+    "discount": "30% OFF",
+    "rating": 59,
+    "category": "Men",
+    "image": "/images/pant4.avif"
+  },
+  {
+    "id": 77,
+    "name": "Men Comfort Fit Chino Pants #77",
+    "price": 1299,
+    "oldPrice": 3248,
+    "discount": "60% OFF",
+    "rating": 104,
+    "category": "Men",
+    "image": "/images/pant5.avif"
+  },
+  {
+    "id": 78,
+    "name": "Men Comfort Fit Chino Pants #78",
+    "price": 999,
+    "oldPrice": 1427,
+    "discount": "30% OFF",
+    "rating": 83,
+    "category": "Men",
+    "image": "/images/pant6.avif"
+  },
+  {
+    "id": 79,
+    "name": "Men Comfort Fit Chino Pants #79",
+    "price": 799,
+    "oldPrice": 1598,
+    "discount": "50% OFF",
+    "rating": 131,
+    "category": "Men",
+    "image": "/images/pant7.avif"
+  },
+  {
+    "id": 80,
+    "name": "Men Comfort Fit Chino Pants #80",
+    "price": 599,
+    "oldPrice": 998,
+    "discount": "40% OFF",
+    "rating": 135,
+    "category": "Men",
+    "image": "/images/pant8.avif"
+  },
+  {
+    "id": 81,
+    "name": "Men Comfort Fit Chino Pants #81",
+    "price": 799,
+    "oldPrice": 1332,
+    "discount": "40% OFF",
+    "rating": 65,
+    "category": "Men",
+    "image": "/images/pant9.avif"
+  },
+  {
+    "id": 82,
+    "name": "Men Premium Cotton Shirt #82",
+    "price": 799,
+    "oldPrice": 1598,
+    "discount": "50% OFF",
+    "rating": 123,
+    "category": "Men",
+    "image": "/images/shirt1.avif"
+  },
+  {
+    "id": 83,
+    "name": "Men Premium Cotton Shirt #83",
+    "price": 1999,
+    "oldPrice": 2856,
+    "discount": "30% OFF",
+    "rating": 131,
+    "category": "Men",
+    "image": "/images/shirt10.avif"
+  },
+  {
+    "id": 84,
+    "name": "Men Premium Cotton Shirt #84",
+    "price": 1499,
+    "oldPrice": 2498,
+    "discount": "40% OFF",
+    "rating": 110,
+    "category": "Men",
+    "image": "/images/shirt11.avif"
+  },
+  {
+    "id": 85,
+    "name": "Men Premium Cotton Shirt #85",
+    "price": 1499,
+    "oldPrice": 2498,
+    "discount": "40% OFF",
+    "rating": 115,
+    "category": "Men",
+    "image": "/images/shirt12.avif"
+  },
+  {
+    "id": 86,
+    "name": "Men Premium Cotton Shirt #86",
+    "price": 999,
+    "oldPrice": 1998,
+    "discount": "50% OFF",
+    "rating": 88,
+    "category": "Men",
+    "image": "/images/shirt13.avif"
+  },
+  {
+    "id": 87,
+    "name": "Men Premium Cotton Shirt #87",
+    "price": 1499,
+    "oldPrice": 3748,
+    "discount": "60% OFF",
+    "rating": 132,
+    "category": "Men",
+    "image": "/images/shirt14.avif"
+  },
+  {
+    "id": 88,
+    "name": "Men Premium Cotton Shirt #88",
+    "price": 1599,
+    "oldPrice": 3998,
+    "discount": "60% OFF",
+    "rating": 100,
+    "category": "Men",
+    "image": "/images/shirt15.avif"
+  },
+  {
+    "id": 89,
+    "name": "Men Premium Cotton Shirt #89",
+    "price": 899,
+    "oldPrice": 2248,
+    "discount": "60% OFF",
+    "rating": 54,
+    "category": "Men",
+    "image": "/images/shirt16.avif"
+  },
+  {
+    "id": 90,
+    "name": "Men Premium Cotton Shirt #90",
+    "price": 799,
+    "oldPrice": 1141,
+    "discount": "30% OFF",
+    "rating": 144,
+    "category": "Men",
+    "image": "/images/shirt17.avif"
+  },
+  {
+    "id": 91,
+    "name": "Men Premium Cotton Shirt #91",
+    "price": 2999,
+    "oldPrice": 7498,
+    "discount": "60% OFF",
+    "rating": 79,
+    "category": "Men",
+    "image": "/images/shirt18.avif"
+  },
+  {
+    "id": 92,
+    "name": "Men Premium Cotton Shirt #92",
+    "price": 999,
+    "oldPrice": 1665,
+    "discount": "40% OFF",
+    "rating": 116,
+    "category": "Men",
+    "image": "/images/shirt19.avif"
+  },
+  {
+    "id": 93,
+    "name": "Men Premium Cotton Shirt #93",
+    "price": 999,
+    "oldPrice": 2498,
+    "discount": "60% OFF",
+    "rating": 57,
+    "category": "Men",
+    "image": "/images/shirt2.avif"
+  },
+  {
+    "id": 94,
+    "name": "Men Premium Cotton Shirt #94",
+    "price": 1999,
+    "oldPrice": 4998,
+    "discount": "60% OFF",
+    "rating": 53,
+    "category": "Men",
+    "image": "/images/shirt20.avif"
+  },
+  {
+    "id": 95,
+    "name": "Men Premium Cotton Shirt #95",
+    "price": 2499,
+    "oldPrice": 4998,
+    "discount": "50% OFF",
+    "rating": 106,
+    "category": "Men",
+    "image": "/images/shirt21.avif"
+  },
+  {
+    "id": 96,
+    "name": "Men Premium Cotton Shirt #96",
+    "price": 1299,
+    "oldPrice": 2598,
+    "discount": "50% OFF",
+    "rating": 60,
+    "category": "Men",
+    "image": "/images/shirt3.avif"
+  },
+  {
+    "id": 97,
+    "name": "Men Premium Cotton Shirt #97",
+    "price": 599,
+    "oldPrice": 856,
+    "discount": "30% OFF",
+    "rating": 127,
+    "category": "Men",
+    "image": "/images/shirt4.avif"
+  },
+  {
+    "id": 98,
+    "name": "Men Premium Cotton Shirt #98",
+    "price": 1799,
+    "oldPrice": 2998,
+    "discount": "40% OFF",
+    "rating": 98,
+    "category": "Men",
+    "image": "/images/shirt5.avif"
+  },
+  {
+    "id": 99,
+    "name": "Men Premium Cotton Shirt #99",
+    "price": 2999,
+    "oldPrice": 4284,
+    "discount": "30% OFF",
+    "rating": 99,
+    "category": "Men",
+    "image": "/images/shirt6.avif"
+  },
+  {
+    "id": 100,
+    "name": "Men Premium Cotton Shirt #100",
+    "price": 799,
+    "oldPrice": 1598,
+    "discount": "50% OFF",
+    "rating": 116,
+    "category": "Men",
+    "image": "/images/shirt7.avif"
+  },
+  {
+    "id": 101,
+    "name": "Men Premium Cotton Shirt #101",
+    "price": 1299,
+    "oldPrice": 3248,
+    "discount": "60% OFF",
+    "rating": 70,
+    "category": "Men",
+    "image": "/images/shirt8.avif"
+  },
+  {
+    "id": 102,
+    "name": "Men Premium Cotton Shirt #102",
+    "price": 1799,
+    "oldPrice": 2570,
+    "discount": "30% OFF",
+    "rating": 69,
+    "category": "Men",
+    "image": "/images/shirt9.avif"
+  },
+  {
+    "id": 103,
+    "name": "Men Premium Cotton Shirt #103",
+    "price": 599,
+    "oldPrice": 856,
+    "discount": "30% OFF",
+    "rating": 108,
+    "category": "Men",
+    "image": "/images/tshirt1.avif"
+  },
+  {
+    "id": 104,
+    "name": "Men Premium Cotton Shirt #104",
+    "price": 599,
+    "oldPrice": 1198,
+    "discount": "50% OFF",
+    "rating": 129,
+    "category": "Men",
+    "image": "/images/tshirt2.avif"
+  },
+  {
+    "id": 105,
+    "name": "Men Premium Cotton Shirt #105",
+    "price": 1499,
+    "oldPrice": 2498,
+    "discount": "40% OFF",
+    "rating": 147,
+    "category": "Men",
+    "image": "/images/tshirt3.avif"
+  },
+  {
+    "id": 106,
+    "name": "Men Premium Cotton Shirt #106",
+    "price": 1599,
+    "oldPrice": 3998,
+    "discount": "60% OFF",
+    "rating": 143,
+    "category": "Men",
+    "image": "/images/tshirt4.avif"
+  },
+  {
+    "id": 107,
+    "name": "Women Cozy Winter Jacket #107",
+    "price": 799,
+    "oldPrice": 1998,
+    "discount": "60% OFF",
+    "rating": 72,
+    "category": "Women",
+    "image": "/images/wjac.avif"
+  },
+  {
+    "id": 108,
+    "name": "Women Cozy Winter Jacket #108",
+    "price": 699,
+    "oldPrice": 1165,
+    "discount": "40% OFF",
+    "rating": 63,
+    "category": "Women",
+    "image": "/images/wjac1.avif"
+  },
+  {
+    "id": 109,
+    "name": "Women Cozy Winter Jacket #109",
+    "price": 2499,
+    "oldPrice": 4998,
+    "discount": "50% OFF",
+    "rating": 113,
+    "category": "Women",
+    "image": "/images/wjac2.avif"
+  },
+  {
+    "id": 110,
+    "name": "Women Cozy Winter Jacket #110",
+    "price": 2499,
+    "oldPrice": 4165,
+    "discount": "40% OFF",
+    "rating": 121,
+    "category": "Women",
+    "image": "/images/wjac3.avif"
+  },
+  {
+    "id": 111,
+    "name": "Women Cozy Winter Jacket #111",
+    "price": 499,
+    "oldPrice": 832,
+    "discount": "40% OFF",
+    "rating": 100,
+    "category": "Women",
+    "image": "/images/wjac4.avif"
+  },
+  {
+    "id": 112,
+    "name": "Women High-Waist Denim Jeans #112",
+    "price": 1599,
+    "oldPrice": 3998,
+    "discount": "60% OFF",
+    "rating": 98,
+    "category": "Women",
+    "image": "/images/wjean1.avif"
+  },
+  {
+    "id": 113,
+    "name": "Women High-Waist Denim Jeans #113",
+    "price": 1299,
+    "oldPrice": 3248,
+    "discount": "60% OFF",
+    "rating": 111,
+    "category": "Women",
+    "image": "/images/wjean2.avif"
+  },
+  {
+    "id": 114,
+    "name": "Women Designer Apparel #114",
+    "price": 2499,
+    "oldPrice": 4998,
+    "discount": "50% OFF",
+    "rating": 117,
+    "category": "Women",
+    "image": "/images/wkur.avif"
+  },
+  {
+    "id": 115,
+    "name": "Women Designer Apparel #115",
+    "price": 999,
+    "oldPrice": 1427,
+    "discount": "30% OFF",
+    "rating": 89,
+    "category": "Women",
+    "image": "/images/wkur1.avif"
+  },
+  {
+    "id": 116,
+    "name": "Women Designer Apparel #116",
+    "price": 1999,
+    "oldPrice": 3332,
+    "discount": "40% OFF",
+    "rating": 127,
+    "category": "Women",
+    "image": "/images/wkur2.avif"
+  },
+  {
+    "id": 117,
+    "name": "Women Designer Apparel #117",
+    "price": 499,
+    "oldPrice": 1248,
+    "discount": "60% OFF",
+    "rating": 108,
+    "category": "Women",
+    "image": "/images/wkur3.avif"
+  },
+  {
+    "id": 118,
+    "name": "Women Designer Apparel #118",
+    "price": 1999,
+    "oldPrice": 3998,
+    "discount": "50% OFF",
+    "rating": 56,
+    "category": "Women",
+    "image": "/images/wkur4.avif"
+  },
+  {
+    "id": 119,
+    "name": "Women Designer Apparel #119",
+    "price": 499,
+    "oldPrice": 998,
+    "discount": "50% OFF",
+    "rating": 91,
+    "category": "Women",
+    "image": "/images/wkur5.avif"
+  },
+  {
+    "id": 120,
+    "name": "Women Designer Apparel #120",
+    "price": 2999,
+    "oldPrice": 7498,
+    "discount": "60% OFF",
+    "rating": 63,
+    "category": "Women",
+    "image": "/images/wkur6.avif"
+  },
+  {
+    "id": 121,
+    "name": "Women Designer Apparel #121",
+    "price": 1599,
+    "oldPrice": 2284,
+    "discount": "30% OFF",
+    "rating": 74,
+    "category": "Women",
+    "image": "/images/wkur7.avif"
+  },
+  {
+    "id": 122,
+    "name": "Women Designer Apparel #122",
+    "price": 1199,
+    "oldPrice": 2398,
+    "discount": "50% OFF",
+    "rating": 72,
+    "category": "Women",
+    "image": "/images/womensw1.avif"
+  },
+  {
+    "id": 123,
+    "name": "Women Designer Apparel #123",
+    "price": 1299,
+    "oldPrice": 3248,
+    "discount": "60% OFF",
+    "rating": 121,
+    "category": "Women",
+    "image": "/images/women_1.jpg"
+  },
+  {
+    "id": 124,
+    "name": "Women Designer Apparel #124",
+    "price": 1999,
+    "oldPrice": 2856,
+    "discount": "30% OFF",
+    "rating": 109,
+    "category": "Women",
+    "image": "/images/women_10.avif"
+  },
+  {
+    "id": 125,
+    "name": "Women Designer Apparel #125",
+    "price": 1999,
+    "oldPrice": 3998,
+    "discount": "50% OFF",
+    "rating": 131,
+    "category": "Women",
+    "image": "/images/women_11.avif"
+  },
+  {
+    "id": 126,
+    "name": "Women Designer Apparel #126",
+    "price": 899,
+    "oldPrice": 1498,
+    "discount": "40% OFF",
+    "rating": 68,
+    "category": "Women",
+    "image": "/images/women_2.jpg"
+  },
+  {
+    "id": 127,
+    "name": "Women Designer Apparel #127",
+    "price": 1799,
+    "oldPrice": 3598,
+    "discount": "50% OFF",
+    "rating": 82,
+    "category": "Women",
+    "image": "/images/women_3.jpg"
+  },
+  {
+    "id": 128,
+    "name": "Women Designer Apparel #128",
+    "price": 499,
+    "oldPrice": 998,
+    "discount": "50% OFF",
+    "rating": 116,
+    "category": "Women",
+    "image": "/images/women_4.webp"
+  },
+  {
+    "id": 129,
+    "name": "Women Designer Apparel #129",
+    "price": 1599,
+    "oldPrice": 3998,
+    "discount": "60% OFF",
+    "rating": 89,
+    "category": "Women",
+    "image": "/images/women_5.webp"
+  },
+  {
+    "id": 130,
+    "name": "Women Designer Apparel #130",
+    "price": 1199,
+    "oldPrice": 2998,
+    "discount": "60% OFF",
+    "rating": 105,
+    "category": "Women",
+    "image": "/images/women_6.jpeg"
+  },
+  {
+    "id": 131,
+    "name": "Women Designer Apparel #131",
+    "price": 1499,
+    "oldPrice": 3748,
+    "discount": "60% OFF",
+    "rating": 71,
+    "category": "Women",
+    "image": "/images/women_7.jpg"
+  },
+  {
+    "id": 132,
+    "name": "Women Designer Apparel #132",
+    "price": 1999,
+    "oldPrice": 3998,
+    "discount": "50% OFF",
+    "rating": 80,
+    "category": "Women",
+    "image": "/images/women_8.avif"
+  },
+  {
+    "id": 133,
+    "name": "Women Designer Apparel #133",
+    "price": 899,
+    "oldPrice": 2248,
+    "discount": "60% OFF",
+    "rating": 127,
+    "category": "Women",
+    "image": "/images/women_9.avif"
+  },
+  {
+    "id": 134,
+    "name": "Women Comfort Fit Trousers #134",
+    "price": 2999,
+    "oldPrice": 7498,
+    "discount": "60% OFF",
+    "rating": 82,
+    "category": "Women",
+    "image": "/images/wpant1.avif"
+  },
+  {
+    "id": 135,
+    "name": "Women Comfort Fit Trousers #135",
+    "price": 999,
+    "oldPrice": 2498,
+    "discount": "60% OFF",
+    "rating": 50,
+    "category": "Women",
+    "image": "/images/wpant2.avif"
+  },
+  {
+    "id": 136,
+    "name": "Women Comfort Fit Trousers #136",
+    "price": 999,
+    "oldPrice": 2498,
+    "discount": "60% OFF",
+    "rating": 97,
+    "category": "Women",
+    "image": "/images/wpant3.avif"
+  },
+  {
+    "id": 137,
+    "name": "Women Comfort Fit Trousers #137",
+    "price": 1799,
+    "oldPrice": 3598,
+    "discount": "50% OFF",
+    "rating": 65,
+    "category": "Women",
+    "image": "/images/wpant4.avif"
+  },
+  {
+    "id": 138,
+    "name": "Women Comfort Fit Trousers #138",
+    "price": 899,
+    "oldPrice": 2248,
+    "discount": "60% OFF",
+    "rating": 99,
+    "category": "Women",
+    "image": "/images/wpant5.avif"
+  },
+  {
+    "id": 139,
+    "name": "Women Comfort Fit Trousers #139",
+    "price": 1799,
+    "oldPrice": 3598,
+    "discount": "50% OFF",
+    "rating": 92,
+    "category": "Women",
+    "image": "/images/wpant6.avif"
+  },
+  {
+    "id": 140,
+    "name": "Women Comfort Fit Trousers #140",
+    "price": 2999,
+    "oldPrice": 4998,
+    "discount": "40% OFF",
+    "rating": 142,
+    "category": "Women",
+    "image": "/images/wpant7.avif"
+  },
+  {
+    "id": 141,
+    "name": "Women Comfort Fit Trousers #141",
+    "price": 1599,
+    "oldPrice": 2665,
+    "discount": "40% OFF",
+    "rating": 107,
+    "category": "Women",
+    "image": "/images/wpant8.avif"
+  },
+  {
+    "id": 142,
+    "name": "Women Comfort Fit Trousers #142",
+    "price": 1299,
+    "oldPrice": 3248,
+    "discount": "60% OFF",
+    "rating": 114,
+    "category": "Women",
+    "image": "/images/wpant9.avif"
+  },
+  {
+    "id": 143,
+    "name": "Women Casual Button Shirt #143",
+    "price": 499,
+    "oldPrice": 713,
+    "discount": "30% OFF",
+    "rating": 136,
+    "category": "Women",
+    "image": "/images/wshirt.avif"
+  },
+  {
+    "id": 144,
+    "name": "Women Casual Button Shirt #144",
+    "price": 599,
+    "oldPrice": 1498,
+    "discount": "60% OFF",
+    "rating": 138,
+    "category": "Women",
+    "image": "/images/wshirt1.avif"
+  },
+  {
+    "id": 145,
+    "name": "Women Casual Button Shirt #145",
+    "price": 1299,
+    "oldPrice": 3248,
+    "discount": "60% OFF",
+    "rating": 69,
+    "category": "Women",
+    "image": "/images/wshirt2.avif"
+  },
+  {
+    "id": 146,
+    "name": "Women Casual Button Shirt #146",
+    "price": 2199,
+    "oldPrice": 3141,
+    "discount": "30% OFF",
+    "rating": 123,
+    "category": "Women",
+    "image": "/images/wshirt4.avif"
+  },
+  {
+    "id": 147,
+    "name": "Women Casual Button Shirt #147",
+    "price": 2199,
+    "oldPrice": 3665,
+    "discount": "40% OFF",
+    "rating": 149,
+    "category": "Women",
+    "image": "/images/wshirt5.avif"
+  },
+  {
+    "id": 148,
+    "name": "Women Casual Button Shirt #148",
+    "price": 2999,
+    "oldPrice": 5998,
+    "discount": "50% OFF",
+    "rating": 110,
+    "category": "Women",
+    "image": "/images/wshirt6.avif"
+  },
+  {
+    "id": 149,
+    "name": "Women Casual Button Shirt #149",
+    "price": 999,
+    "oldPrice": 1427,
+    "discount": "30% OFF",
+    "rating": 78,
+    "category": "Women",
+    "image": "/images/wshirt7.avif"
+  },
+  {
+    "id": 150,
+    "name": "Women Casual Button Shirt #150",
+    "price": 1499,
+    "oldPrice": 2498,
+    "discount": "40% OFF",
+    "rating": 59,
+    "category": "Women",
+    "image": "/images/wshirt8.avif"
+  },
+  {
+    "id": 151,
+    "name": "Women Elegant Skirt #151",
+    "price": 1499,
+    "oldPrice": 2498,
+    "discount": "40% OFF",
+    "rating": 125,
+    "category": "Women",
+    "image": "/images/wskirt1.avif"
+  },
+  {
+    "id": 152,
+    "name": "Women Elegant Skirt #152",
+    "price": 2499,
+    "oldPrice": 4998,
+    "discount": "50% OFF",
+    "rating": 122,
+    "category": "Women",
+    "image": "/images/wskirt2.avif"
+  },
+  {
+    "id": 153,
+    "name": "Women Elegant Skirt #153",
+    "price": 799,
+    "oldPrice": 1998,
+    "discount": "60% OFF",
+    "rating": 115,
+    "category": "Women",
+    "image": "/images/wskirt3.avif"
+  },
+  {
+    "id": 154,
+    "name": "Women Elegant Skirt #154",
+    "price": 2199,
+    "oldPrice": 3141,
+    "discount": "30% OFF",
+    "rating": 92,
+    "category": "Women",
+    "image": "/images/wskirt4.avif"
+  },
+  {
+    "id": 155,
+    "name": "Women Stylish Top #155",
+    "price": 1799,
+    "oldPrice": 2570,
+    "discount": "30% OFF",
+    "rating": 62,
+    "category": "Women",
+    "image": "/images/wtop.avif"
+  },
+  {
+    "id": 156,
+    "name": "Women Stylish Top #156",
+    "price": 2999,
+    "oldPrice": 7498,
+    "discount": "60% OFF",
+    "rating": 110,
+    "category": "Women",
+    "image": "/images/wtop1.avif"
+  },
+  {
+    "id": 157,
+    "name": "Women Stylish Top #157",
+    "price": 1799,
+    "oldPrice": 2570,
+    "discount": "30% OFF",
+    "rating": 58,
+    "category": "Women",
+    "image": "/images/wtop2.avif"
+  },
+  {
+    "id": 158,
+    "name": "Women Stylish Top #158",
+    "price": 499,
+    "oldPrice": 1248,
+    "discount": "60% OFF",
+    "rating": 133,
+    "category": "Women",
+    "image": "/images/wtop3.avif"
+  },
+  {
+    "id": 159,
+    "name": "Women Stylish Top #159",
+    "price": 1199,
+    "oldPrice": 2398,
+    "discount": "50% OFF",
+    "rating": 141,
+    "category": "Women",
+    "image": "/images/wtop4.avif"
+  },
+  {
+    "id": 160,
+    "name": "Women Stylish Top #160",
+    "price": 2499,
+    "oldPrice": 6248,
+    "discount": "60% OFF",
+    "rating": 143,
+    "category": "Women",
+    "image": "/images/wtop5.avif"
+  },
+  {
+    "id": 161,
+    "name": "Women Stylish Top #161",
+    "price": 2999,
+    "oldPrice": 4284,
+    "discount": "30% OFF",
+    "rating": 118,
+    "category": "Women",
+    "image": "/images/wtop6.avif"
+  },
+  {
+    "id": 162,
+    "name": "Women Stylish Top #162",
+    "price": 599,
+    "oldPrice": 856,
+    "discount": "30% OFF",
+    "rating": 69,
+    "category": "Women",
+    "image": "/images/wtop7.avif"
+  },
+  {
+    "id": 163,
+    "name": "Women Comfort Fit Trousers #163",
+    "price": 1299,
+    "oldPrice": 1856,
+    "discount": "30% OFF",
+    "rating": 57,
+    "category": "Women",
+    "image": "/images/wtrous1.avif"
+  },
+  {
+    "id": 164,
+    "name": "Women Comfort Fit Trousers #164",
+    "price": 1199,
+    "oldPrice": 1713,
+    "discount": "30% OFF",
+    "rating": 109,
+    "category": "Women",
+    "image": "/images/wtrous2.avif"
+  },
+  {
+    "id": 165,
+    "name": "Women Printed T-Shirt #165",
+    "price": 1799,
+    "oldPrice": 2998,
+    "discount": "40% OFF",
+    "rating": 106,
+    "category": "Women",
+    "image": "/images/wtshirt1.avif"
+  },
+  {
+    "id": 166,
+    "name": "Women Printed T-Shirt #166",
+    "price": 499,
+    "oldPrice": 1248,
+    "discount": "60% OFF",
+    "rating": 110,
+    "category": "Women",
+    "image": "/images/wtshirt10.avif"
+  },
+  {
+    "id": 167,
+    "name": "Women Printed T-Shirt #167",
+    "price": 1199,
+    "oldPrice": 1998,
+    "discount": "40% OFF",
+    "rating": 129,
+    "category": "Women",
+    "image": "/images/wtshirt2.avif"
+  },
+  {
+    "id": 168,
+    "name": "Women Printed T-Shirt #168",
+    "price": 1599,
+    "oldPrice": 3998,
+    "discount": "60% OFF",
+    "rating": 95,
+    "category": "Women",
+    "image": "/images/wtshirt3.avif"
+  },
+  {
+    "id": 169,
+    "name": "Women Printed T-Shirt #169",
+    "price": 599,
+    "oldPrice": 998,
+    "discount": "40% OFF",
+    "rating": 91,
+    "category": "Women",
+    "image": "/images/wtshirt4.avif"
+  },
+  {
+    "id": 170,
+    "name": "Women Printed T-Shirt #170",
+    "price": 599,
+    "oldPrice": 1198,
+    "discount": "50% OFF",
+    "rating": 145,
+    "category": "Women",
+    "image": "/images/wtshirt5.avif"
+  },
+  {
+    "id": 171,
+    "name": "Women Printed T-Shirt #171",
+    "price": 1299,
+    "oldPrice": 2165,
+    "discount": "40% OFF",
+    "rating": 131,
+    "category": "Women",
+    "image": "/images/wtshirt6.avif"
+  },
+  {
+    "id": 172,
+    "name": "Women Printed T-Shirt #172",
+    "price": 1799,
+    "oldPrice": 2998,
+    "discount": "40% OFF",
+    "rating": 150,
+    "category": "Women",
+    "image": "/images/wtshirt7.avif"
+  },
+  {
+    "id": 173,
+    "name": "Women Printed T-Shirt #173",
+    "price": 2999,
+    "oldPrice": 5998,
+    "discount": "50% OFF",
+    "rating": 77,
+    "category": "Women",
+    "image": "/images/wtshirt8.avif"
+  },
+  {
+    "id": 174,
+    "name": "Women Printed T-Shirt #174",
+    "price": 599,
+    "oldPrice": 1498,
+    "discount": "60% OFF",
+    "rating": 55,
+    "category": "Women",
+    "image": "/images/wtshirt9.avif"
+  }
+]
